@@ -1,0 +1,399 @@
+@media screen and (min-width: 768px) {
+  .menu-back,
+  .icon-menu,
+  .canopy,
+  .section1,
+  .Multi-Post_05,
+  .BackendDev,
+  .tonic {
+    display: none;
+  }
+
+  body {
+    background-color: white;
+  }
+
+  .firstcardBack {
+    margin: 0 auto;
+    width: 68%;
+    align-items: flex-start;
+    background-position: center;
+    background-size: contain;
+    background-image: url('./image/descktop/HeaderDesktop.png');
+    background-repeat: no-repeat;
+    position: unset;
+    filter: unset;
+  }
+
+  .Portfolio-desc,
+  .About-desc,
+  .contact-desc {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0;
+    text-align: center;
+    text-decoration: none;
+    color: #344563;
+  }
+
+  .Portfolio-desc,
+  .About-desc,
+  .contact-desc,
+  .fullstack,
+  .Multi-Post_05-desck,
+  .uber,
+  .Leaddev,
+  .canopy-desck,
+  .Facebook360 {
+    display: flex;
+  }
+
+  .card_02,
+  .card_03,
+  .card_05,
+  .card_04,
+  .Programs {
+    display: none;
+  }
+
+  .section2 {
+    margin-top: 20px;
+  }
+
+  .work_main_3 {
+    margin-top: 45px;
+  }
+
+  .introdaction {
+    width: 82%;
+  }
+
+  #abouthello {
+    display: flex;
+  }
+
+  .tonic_02 {
+    margin-bottom: 30px;
+  }
+
+  .descktopcard {
+    display: flex;
+  }
+
+  .form-group {
+    margin-left: 497px;
+    margin-right: 496px;
+    background: none;
+    border: none;
+  }
+
+  .contactbutton {
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+
+  .form-group2 {
+    margin-left: 497px;
+    margin-right: 496px;
+    background: none;
+    border: none;
+  }
+
+  .program1 {
+    margin-top: 45px;
+    display: flex;
+    padding-left: 0;
+  }
+
+  .section1 {
+    padding-left: 0;
+    width: auto;
+  }
+
+  .sectioncontact {
+    max-width: 447px;
+    align-items: center;
+  }
+
+  .button1 {
+    margin-left: 0;
+  }
+
+  .cardBack {
+    margin: 0 auto;
+    flex-direction: row;
+    width: 80%;
+    height: auto;
+    gap: 20px;
+    align-items: flex-start;
+    margin-bottom: 142px;
+  }
+
+  .cardcontact1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #cardbackid03 {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    height: auto;
+    justify-content: flex-end;
+  }
+
+  #cardbackid05 {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    height: auto;
+    justify-content: flex-end;
+  }
+
+  .projectdesc02 {
+    width: 50%;
+  }
+
+  .projectdesc03 {
+    width: 50%;
+  }
+
+  .projectdesc04 {
+    width: 50%;
+  }
+
+  #aboutcardid {
+    display: flex;
+    flex-direction: row;
+    padding-left: 142px;
+    padding-right: 142px;
+  }
+
+  .card_02_desc,
+  .card_04-desck,
+  .card_03_desck,
+  .card_05_desck {
+    display: flex;
+  }
+
+  .card_02_desc {
+    padding-left: 24px;
+    width: 50%;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .card_02_image {
+    width: 100%;
+  }
+
+  .card_03_image {
+    width: 100%;
+  }
+
+  .card_04_image {
+    width: 100%;
+  }
+
+  .card_05_image {
+    width: 100%;
+  }
+
+  .card_04-desck {
+    padding-left: 10px;
+    padding-bottom: 24px;
+  }
+
+  .projectdesc05 {
+    width: 50%;
+  }
+
+  .card_03_desck {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .card_05_desck {
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .Programs-desck,
+  .facebook,
+  .section2,
+  .section1-desc {
+    display: flex;
+  }
+
+  #BackendDevid {
+    display: flex;
+  }
+
+  .Programs-desclist {
+    display: flex;
+    gap: 10px;
+  }
+
+  .Programs-desclist > ul {
+    list-style-type: none;
+  }
+
+  .contact {
+    margin-top: 12px;
+    text-align: center;
+  }
+
+  .Multi-pos_3 {
+    font-size: 30px;
+  }
+
+  .section1-desc {
+    height: 76px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #344563;
+  }
+
+  .canopy-desck {
+    width: 55px;
+    height: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #344563;
+    list-style: none;
+  }
+
+  .fullstack {
+    width: 100px;
+    height: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #7a869a;
+  }
+
+  .buttonsee2 {
+    margin-top: 12px;
+  }
+
+  .button2 {
+    margin-right: 125px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #6070ff;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.03em;
+  }
+
+  .button2:enabled {
+    background-color: #456ce1;
+    color: #e5e8f0;
+  }
+
+  .button2:hover {
+    background-color: #f0f2f5;
+    color: rgb(63, 63, 245);
+  }
+
+  .Multi-Post_05-desck {
+    margin-top: 12px;
+    margin-bottom: 20px;
+    width: 292px;
+    height: 0;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    color: #172b4d;
+  }
+
+  .Leaddev {
+    width: 103px;
+    height: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #7a869a;
+  }
+
+  .uber {
+    width: 55px;
+    height: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #344563;
+    list-style: none;
+  }
+
+  .mainiam {
+    margin-top: 100px;
+    width: 69%;
+  }
+
+  #contactbuttonid {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .cardcontact {
+    background-size: contain;
+    background-position: 100% 15%;
+    background-image: url('./image/descktop/contact\ form\ background\ shapes.svg');
+  }
+
+  .filedset {
+    display: flex;
+    flex-direction: column;
+    max-width: 447px;
+  }
+
+  .menu {
+    display: flex;
+    gap: 20px;
+  }
+
+  .flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: flex-start;
+    margin-right: 12px;
+    background: #f7f7f9;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
+
+  .flex-img {
+    margin: 12px 0 16px 12px;
+    width: 48px;
+    height: 48px;
+  }
+}
