@@ -18,9 +18,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖MY Portfolio - mobile menu: <a name="about-project"></a>
+# 📖MY Portfolio - popup mobile and desktop window: <a name="about-project"></a>
 
-> My-portfolio project is created using HTML and CSS Use JavaScript to manipulate DOM elements. Here on the project, I prepared portfolio for both mobile and desktop users by relying on Figma Portfolio Template 1. Specifically on this project I have created the desktop version.
+> My Popup Mobile and desktop project is created using HTML and CSS Use JavaScript to manipulate DOM elements. Here on the project, I prepared a portfolio for both mobile and desktop users by relying on Figma Portfolio Template 1. Specifically on this project I have created the desktop version.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,6 +40,7 @@
 ### Key Features <a name="key-features"></a>
 - Responsive
 - Mobile first
+- Popup Mobile and Desktop window
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
