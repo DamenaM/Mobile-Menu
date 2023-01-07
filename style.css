@@ -10,6 +10,10 @@ body {
   background-color: hsl(0deg 3% 71% / 10%);
 }
 
+ul {
+  list-style-type: none;
+}
+
 .hide {
   display: none;
 }
@@ -75,7 +79,7 @@ body {
 }
 
 .filterblur {
-  filter: blur(0);
+  filter: blur(8px);
 }
 
 .menu-content {
@@ -365,7 +369,6 @@ body {
 .program1 {
   display: grid;
   grid-template-columns: auto auto auto;
-  gap: 10px;
   padding-right: 108px;
   padding-left: 28px;
 }
@@ -402,12 +405,13 @@ body {
 .works {
   display: flex;
   gap: 20px;
-  justify-content: space-around;
+  justify-content: start;
+  padding-left: 10px;
 }
 
 .Program-skilhtml {
-  width: 45px;
-  height: 24px;
+  text-align: center;
+  text-decoration: none;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -415,15 +419,12 @@ body {
   line-height: 16px;
   letter-spacing: 0.03em;
   color: #6070ff;
-  display: flex;
-  background-color: #ebebff;
-  text-align: center;
-  gap: 20px;
-  list-style: none;
-  border-radius: 8px;
-  flex-direction: row;
-  align-items: center;
   padding: 4px 12px;
+  background: #ebebff;
+  border-radius: 8px;
+  height: 24px;
+  margin-right: 8px;
+  list-style-type: none;
 }
 
 .skiljava {
@@ -1005,6 +1006,16 @@ body {
   border-radius: 16px;
   margin-left: 16px;
   margin-right: 16px;
+  z-index: 10;
+}
+
+.canopypop {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #7a869a;
 }
 
 .headerDisplay {
@@ -1098,12 +1109,24 @@ body {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 27px;
-  line-height: 0px;
-  color: #172b4d;
+  font-size: 40px;
+  line-height: 52px;
+  color: #091e42;
 }
 
 .imgPopup {
   width: 100%;
   height: auto;
+}
+
+/* ------------------------------------------------------ */
+.imgPopupdesc,
+.Program-skilhtm-deskpop {
+  display: none;
+}
+
+.langbtn-div-mydatalist {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
